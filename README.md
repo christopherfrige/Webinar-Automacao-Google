@@ -5,7 +5,7 @@ Com os slides no arquivo **.pdf** é possível fazer as configurações necessá
 
 O código **main.py** contém abordagens simples, mostrando um pouco do potencial dessas integrações. <br>
 
-# Bibliotecas usadas no projeto
+## Bibliotecas usadas no projeto
 - Google Client for Python
 - Pandas
 - Matplotlib
@@ -14,19 +14,21 @@ O código **main.py** contém abordagens simples, mostrando um pouco do potencia
 
 
 ## Instalação direta usando o arquivo "requirements":
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
-## Instalação biblioteca por biblioteca:
+### Instalação biblioteca por biblioteca:
 
-### Google
-pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+#### Google
+    pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
-### Acesso ao banco de dados
-pip install psycopg2 sqlalchemy
+#### Acesso ao banco de dados
+    pip install psycopg2 sqlalchemy
 
-### Tratamento e visualização de dados
-pip install pandas matplotlib
+#### Tratamento e visualização de dados
+    pip install pandas matplotlib
 
 
-## Imagem de convite para o Webinar
+### Imagem de convite para o Webinar
+
+<img alt="Convite para o Webinar" src="https://i.imgur.com/EAI4vPF.png" width=600px>
